@@ -388,6 +388,8 @@ My current research focuses on **multimodal large language models (MLLMs)**, **e
 
 <h1 class="zz-section-title"><span class="zz-icon">📝</span>Publications</h1>
 
+{% comment %}
+Temporarily hidden for anonymous submission.
 <div class="zz-paper">
   <div class="zz-paper-cover">
     <div class="zz-badge">PinpointQA</div>
@@ -405,6 +407,7 @@ My current research focuses on **multimodal large language models (MLLMs)**, **e
     </p>
   </div>
 </div>
+{% endcomment %}
 
 <div class="zz-paper">
   <div class="zz-paper-cover">
