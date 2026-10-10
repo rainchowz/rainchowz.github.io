@@ -366,13 +366,13 @@ redirect_from:
 
 <div class="zz-intro" markdown="1">
 
-I am **Zhiyu Zhou** (**周志宇** in Chinese), a senior undergraduate student in **Software Engineering** at **Jilin University**, advised by <a href="https://www.hongxiaxie.net/" target="_blank" rel="noopener noreferrer"><strong>Prof. Hongxia Xie</strong></a>.
+I am **Zhiyu Zhou** (**周志宇** in Chinese), currently pursuing an **M.Sc. in Artificial Intelligence** at **The Chinese University of Hong Kong (CUHK)**. I received my bachelor's degree in **Software Engineering** from **Jilin University**, where I conducted research under the supervision of <a href="https://www.hongxiaxie.net/" target="_blank" rel="noopener noreferrer"><strong>Prof. Hongxia Xie</strong></a>.
 
-My current research focuses on **multimodal large language models (MLLMs)**, **embodied AI**, and **computer vision**. I am particularly interested in the synergy among **perception**, **understanding**, and **action**, with the goal of building intelligent systems that can interact more naturally with the physical world and better align with human-like cognitive processes.
+My research interests lie in **robot learning**, **vision-language-action (VLA) models**, and **robotic manipulation**, with a particular focus on the **post-training of robot foundation models**. I am especially interested in bridging **perception**, **reasoning**, and **action** to enable more generalizable and robust robotic behaviors.
 
-<span class="zz-highlight">My long-term goal is to advance artificial intelligence from understanding toward perception and action in the real world.</span>
+<span class="zz-highlight">My long-term goal is to develop general-purpose embodied intelligence that can reliably perceive, reason, and act in the real world.</span>
 
-**Email:** [zhouzy1622@mails.jlu.edu.cn](mailto:zhouzy1622@mails.jlu.edu.cn)
+**Email:** [zhouzhiyu@link.cuhk.edu.hk](mailto:zhouzhiyu@link.cuhk.edu.hk)
 
 </div>
 
@@ -381,6 +381,7 @@ My current research focuses on **multimodal large language models (MLLMs)**, **e
 <h1 class="zz-section-title"><span class="zz-icon">🔥</span>News</h1>
 
 <ul class="zz-news">
+  <li><span class="zz-date">2026.08</span>: Our work <strong>PinpointQA</strong> was accepted to <strong>ECCV EMR 2026</strong>.</li>
   <li><span class="zz-date">2026.02</span>: Our work <strong>MindPower</strong> was accepted to <strong>CVPR 2026</strong>.</li>
 </ul>
 
@@ -388,26 +389,23 @@ My current research focuses on **multimodal large language models (MLLMs)**, **e
 
 <h1 class="zz-section-title"><span class="zz-icon">📝</span>Publications</h1>
 
-{% comment %}
-Temporarily hidden for anonymous submission.
 <div class="zz-paper">
   <div class="zz-paper-cover">
-    <div class="zz-badge">PinpointQA</div>
+    <div class="zz-badge">ECCV EMR 2026</div>
     <img src="images/pinpointqa.png" alt="PinpointQA project preview">
   </div>
   <div>
     <p class="zz-paper-title">
-      <a href="https://rainchowz.github.io/PinpointQA/" target="_blank" rel="noopener noreferrer">PinpointQA: A Dataset and Benchmark for Small Object-Centric Spatial Understanding in Indoor Videos</a>
+      <a href="https://rainchowz.github.io/PinpointQA/" target="_blank" rel="noopener noreferrer">PinpointQA: A Benchmark for Small Object-Centric Spatial Understanding in Indoor Videos</a>
     </p>
     <p class="zz-paper-authors">
       <strong>Zhiyu Zhou</strong>, Peilin Liu, Ruoxuan Zhang, Luyang Zhang, Cheng Zhang, Hongxia Xie, Wen-Huang Cheng
     </p>
     <p class="zz-paper-note">
-      PinpointQA focuses on small object-centric spatial understanding in indoor videos, providing a dataset and benchmark for evaluating fine-grained spatial perception and reasoning.
+      <strong>ECCV EMR 2026.</strong> PinpointQA evaluates small object-centric spatial understanding in indoor videos, spanning target presence, reference grounding, fine-grained description, and structured spatial prediction.
     </p>
   </div>
 </div>
-{% endcomment %}
 
 <div class="zz-paper">
   <div class="zz-paper-cover">
@@ -434,16 +432,29 @@ Temporarily hidden for anonymous submission.
 <div class="zz-two-col-list">
   <div class="zz-row">
     <div class="zz-row-left zz-education-left">
-      <img class="zz-school-logo" src="images/jilin-university.jpg" alt="Jilin University">
+      <img class="zz-school-logo" src="images/cuhk_logo.jpg" alt="The Chinese University of Hong Kong" style="object-fit: contain; background: #fff;">
       <div>
-        <strong>Jilin University</strong>
-        <span class="zz-date-range">Sept. 2022 - Jun. 2026</span><br>
+        <strong>The Chinese University of Hong Kong</strong>
+        <span class="zz-date-range">2026 - 2027.12</span><br>
         <span>Expected</span>
       </div>
     </div>
     <div class="zz-row-right">
+      <p class="zz-row-title">M.Sc. in Artificial Intelligence</p>
+      <p class="zz-row-meta">The Chinese University of Hong Kong.</p>
+    </div>
+  </div>
+  <div class="zz-row">
+    <div class="zz-row-left zz-education-left">
+      <img class="zz-school-logo" src="images/jilin-university.jpg" alt="Jilin University">
+      <div>
+        <strong>Jilin University</strong>
+        <span class="zz-date-range">Sept. 2022 - Jun. 2026</span>
+      </div>
+    </div>
+    <div class="zz-row-right">
       <p class="zz-row-title">B.Eng. in Software Engineering</p>
-      <p class="zz-row-meta">Senior undergraduate student, School of Software, Jilin University.</p>
+      <p class="zz-row-meta">School of Software, Jilin University.</p>
     </div>
   </div>
 </div>
@@ -455,10 +466,23 @@ Temporarily hidden for anonymous submission.
 <div class="zz-two-col-list">
   <div class="zz-row">
     <div class="zz-row-left zz-experience-left">
+      <img class="zz-lab-logo" src="images/primebot.png" alt="PrimeBot">
+      <div>
+        <strong>Research Intern</strong>
+        <span class="zz-date-range">2026.05 - 2026.09</span>
+      </div>
+    </div>
+    <div class="zz-row-right">
+      <p class="zz-row-title">PrimeBot</p>
+      <p class="zz-row-meta">Supervisor: <a href="https://zsdonghao.github.io/" target="_blank" rel="noopener noreferrer">Prof. Hao Dong</a></p>
+    </div>
+  </div>
+  <div class="zz-row">
+    <div class="zz-row-left zz-experience-left">
       <img class="zz-lab-logo" src="images/avclab.png" alt="Affective Vision Computing Lab">
       <div>
         <strong>Research Assistant</strong>
-        <span class="zz-date-range">2025 - Present</span>
+        <span class="zz-date-range">2025.03 - 2026.05</span>
       </div>
     </div>
     <div class="zz-row-right">
@@ -476,7 +500,7 @@ Temporarily hidden for anonymous submission.
   <div class="zz-row">
     <div class="zz-row-left">
       <strong>Undergraduate Scholarship</strong>
-      <span class="zz-date-range">2022 - 2025</span>
+      <span class="zz-date-range">2022 - 2026</span>
     </div>
     <div class="zz-row-right">
       <p class="zz-row-title">Jilin University</p>

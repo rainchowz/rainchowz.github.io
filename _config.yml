@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "Zhiyu Zhou"
-description              : "My current research focuses on multimodal large language models, embodied AI, and computer vision."
+description              : "My current research focuses on embodied AI, multimodal large language models, and computer vision."
 repository               : "rainchowz/rainchowz.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -16,12 +16,12 @@ baidu_site_verification  :
 author:
   name             : "Zhiyu Zhou"
   avatar           : "images/rainchow.jpg"
-  bio              : "Senior undergraduate student in Software Engineering at Jilin University"
+  bio              : "M.Sc. student in Artificial Intelligence at The Chinese University of Hong Kong"
   location         : "Jilin, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=wpA1_8QAAAAJ&hl=zh-CN&oi=sra"
-  email            : "zhouzy1622@mails.jlu.edu.cn"
+  email            : "zhouzhiyu@link.cuhk.edu.hk"
   researchgate     :
   uri              :
   bitbucket        :
